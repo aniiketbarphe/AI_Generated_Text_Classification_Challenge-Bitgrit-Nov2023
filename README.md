@@ -86,22 +86,36 @@ bitgrit wants to tackle these complex issues by identifying the AI-generated tex
 💥 Any prize awards are subject to eligibility verification and compliance with these Terms of Participation. All decisions of bitgrit will be final and binding on all matters relating to this Competition.
 
 💥 If two or more participants have the same score on the leaderboard, the participant who submitted the winning file first will be considered the winner.
+#
+**G) Prizes:-**
 
+🏅**1st Prize:-** $1,500
+ 
+🏅**2nd Prize:-** $1,000
+ 
+🏅**3rd Prize:-** $500
+#
+# Summary
 
-Timeline
-Competition Starts: 1 November 2023
- 
-Competition Ends: 31 January 2024
- 
-Winners Announced (Subject to change based on submission results): 20 February 2024
+**a) Best Submission F1 Score:-**
 
-Prizes
-1st Prize: $1,500
- 
-2nd Prize: $1,000
- 
-3rd Prize: $500
+**1) Private Leaderboard:-** 0.78703704
 
-Competition Link:-
+**2) Public Leaderboard:-** 0.70662461 & 0.7
+#
+**b) Best Model:-** [ Ensemble Technique (Different Version of Linear Discriminant Analysis)]
+
+![Private-AB](https://github.com/aniiketbarphe/AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023/assets/84449238/52afd075-7ff1-4682-ab6a-e7a066aacdad)
+
+![Public-AB](https://github.com/aniiketbarphe/AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023/assets/84449238/d9411613-91ec-4166-a68d-d8c18d1e4cfb)
+
+#
+**c) Competition Link:-**
 
 https://bitgrit.net/competition/19
+#
+**d) Rank Scored:-**
+
+d1) **37** out of **303** registered participants (Private Leaderboard)
+
+d2) **52** out of **303** registered participants (Public Leaderboard)
