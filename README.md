@@ -10,13 +10,13 @@
 
 AI-generated texts have a wide range of use cases across various industries and domains such as; Content Generation, Personalized Marketing, Virtual Assistants and Chatbots:, Creative Writing and Storytelling, and more. While AI-generated texts offer many benefits and applications, there are also some inherent risks that need to be considered.
 
-**1️⃣ Misinformation and Fake News:** AI-generated texts can be used to spread misinformation or generate fake news articles that appear authentic. This poses a significant risk to society as false information can quickly spread, leading to confusion, manipulation, and the erosion of trust in media and communication channels.
+**1️] Misinformation and Fake News:** AI-generated texts can be used to spread misinformation or generate fake news articles that appear authentic. This poses a significant risk to society as false information can quickly spread, leading to confusion, manipulation, and the erosion of trust in media and communication channels.
 
-**2️⃣ Bias and Discrimination:** AI models are trained on vast amounts of data, which can reflect biases present in society. If not properly identified and addressed, AI-generated texts can perpetuate and amplify existing biases, including racial, gender, or social biases. This can lead to biased recommendations, unfair decision-making processes, or discriminatory content.
+**2️] Bias and Discrimination:** AI models are trained on vast amounts of data, which can reflect biases present in society. If not properly identified and addressed, AI-generated texts can perpetuate and amplify existing biases, including racial, gender, or social biases. This can lead to biased recommendations, unfair decision-making processes, or discriminatory content.
 
-**3️⃣ Lack of Accountability:** As AI systems generate texts autonomously, it becomes challenging to hold someone accountable for the content produced. The absence of clear guidelines or oversight can allow malicious actors to exploit AI-generated texts for unethical purposes or illegal activities.
+**3️] Lack of Accountability:** As AI systems generate texts autonomously, it becomes challenging to hold someone accountable for the content produced. The absence of clear guidelines or oversight can allow malicious actors to exploit AI-generated texts for unethical purposes or illegal activities.
 
-**4️⃣ Restricted Privacy:** AI models are built using large amounts of information, often the personal data of users. As the technology's conversational ability improves, the inability to distinguish between human and machine puts the human user at risk of having their personal information leaked and used for unethical or malicious purposes i.e. sales marketing data, deepfakes, etc.
+**4️] Restricted Privacy:** AI models are built using large amounts of information, often the personal data of users. As the technology's conversational ability improves, the inability to distinguish between human and machine puts the human user at risk of having their personal information leaked and used for unethical or malicious purposes i.e. sales marketing data, deepfakes, etc.
 
 bitgrit wants to tackle these complex issues by identifying the AI-generated texts using the machine learning algorithm. 
 #
