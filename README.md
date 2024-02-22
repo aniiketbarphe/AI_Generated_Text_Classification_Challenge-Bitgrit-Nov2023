@@ -5,6 +5,7 @@
 ![WhatsApp Image 2024-02-13 at 08 18 11 (1)](https://github.com/aniiketbarphe/AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023/assets/84449238/70796505-236d-41ec-8ced-7187e1dfe6c6)
 
 (Image Credit:- DALL E3)
+#
 **A) About Hackathon:-**
 
 AI-generated texts have a wide range of use cases across various industries and domains such as; Content Generation, Personalized Marketing, Virtual Assistants and Chatbots:, Creative Writing and Storytelling, and more. While AI-generated texts offer many benefits and applications, there are also some inherent risks that need to be considered.
