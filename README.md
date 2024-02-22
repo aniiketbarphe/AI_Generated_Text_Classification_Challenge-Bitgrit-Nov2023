@@ -1,10 +1,10 @@
 ![Header](https://github.com/aniiketbarphe/AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023/assets/84449238/df430bc0-4f9b-49eb-b116-07813037b2ff)
 
-# AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023
-
 ![WhatsApp Image 2024-02-13 at 08 18 11 (1)](https://github.com/aniiketbarphe/AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023/assets/84449238/70796505-236d-41ec-8ced-7187e1dfe6c6)
 
 (Image Credit:- DALL E3)
+#
+# AI_Generated_Text_Classification_Challenge-Bitgrit-Nov2023
 #
 **A) About Hackathon:-**
 
